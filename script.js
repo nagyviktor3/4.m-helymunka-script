@@ -1,5 +1,8 @@
-let valami =[1,2,3,4,5,6,7,8,9,9]
-valami.forEach((number) => { 
-    console.log(number);
-    $('ul').append(valami)
-});
+let ideglenesvaltozo =""
+const nevek =['Béla','Joska','Ady'];
+nevek.forEach(myfunctioon)
+document.getElementsByClassName('nev').innerHtml = text;
+function myfunctioon(item){
+    text=+
+}
+$('ul').append('<li>',nevek,'</li>')
